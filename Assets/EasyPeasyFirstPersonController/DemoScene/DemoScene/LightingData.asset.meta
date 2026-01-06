@@ -1,15 +1,8 @@
 fileFormatVersion: 2
-guid: 44ee8773ec89e6041b06d2c51cdb81b5
+guid: 95d1ea985f2139947a93aaa11c5489f1
 NativeFormatImporter:
   externalObjects: {}
-  mainObjectFileID: 112000000
+  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 317073
-  packageName: Easy Peasy First Person Controller
-  packageVersion: 1.0
-  assetPath: Assets/EasyPeasyFirstPersonController/DemoScene/DemoScene/LightingData.asset
-  uploadId: 788578
